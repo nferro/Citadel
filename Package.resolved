@@ -75,11 +75,11 @@
       },
       {
         "package": "swift-nio-ssh",
-        "repositoryURL": "https://github.com/Joannis/swift-nio-ssh.git",
+        "repositoryURL": "https://github.com/nferro/swift-nio-ssh.git",
         "state": {
           "branch": null,
-          "revision": "b93961a2988607a756cbc21a811f406f27aa9ab6",
-          "version": "0.3.4"
+          "revision": "a4ae77bcd83e61ece1082f431fca288076ca3d17",
+          "version": null
         }
       },
       {
